@@ -1,4 +1,4 @@
-#How I ran this project?
+# How I ran this project?
 - I started a live server from VS code of `index.html`
 - I have installed a Wallet called `Metamask` and loaded some Testnets
 - Then I typed my desired `mood` into the input box and clicked `set mood`
